@@ -13,4 +13,4 @@ This is submitted project to passed the React web application development class 
 1. An active and archive notes will appear in this web page while opened
 2. Fill the form note to create a new note
 3. You can archive, revert, or delete notes using the buttons in the note
-4. While you refresh this page, the added notes will be deleted. The notes will appear in this page like opened firstly.
+4. While you refresh this page, the added notes will be deleted. The notes will appear in this page like opened firstly
