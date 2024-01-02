@@ -4,7 +4,7 @@ This is submitted project to passed the React web application development class 
 
 ## How to Install and Run the Project
 1. Make sure **Node.js** is installed in your machine
-2. Download this project
+2. Download and extract this project
 3. Open terminal and make sure your cursor is in the downloaded project folder
 4. Run **npm install vite** until **node_modules** folder in project folder is created
 5. Run **npm run dev** and follow the link, enjoy it!
