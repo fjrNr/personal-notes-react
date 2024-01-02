@@ -1,17 +1,16 @@
-# Personal Notes using ReactJs
+# Personal Notes using React
 ## Description
-This is project that submitted to Dicoding Indonesia. This application project using front-end website language, such as HTML, CSS, and React DOM to ensure this web page can be open via Internet browser. This application can do create, archive, and delete notes.
+This is submitted project to passed the React web application development class from Dicoding Indonesia. This project using front-end website language, such as HTML, CSS, and React to ensure this web page can be open via web browser.
 
 ## How to Install and Run the Project
-1. Download this project
-2. Open terminal and make sure your current location in downloaded project  
-3. Run **npm install vite** until **node_modules** folder is founded
-4. Run **npm run dev**, enjoy it!
+1. Make sure **Node.js** is installed in your machine
+2. Download this project
+3. Open terminal and make sure your cursor is in the downloaded project folder
+4. Run **npm install vite** until **node_modules** folder in project folder is created
+5. Run **npm run dev** and follow the link, enjoy it!
 
 ## How to Use the Project
-1. While you open this web page, an active and archive notes will appear in this page
+1. An active and archive notes will appear in this web page while opened
 2. Fill the form note to create a new note
-3. You can archive, revert, or delete notes using the button in note item
-
-## How to Customize the Project
-You can add feature to make this web page more powerfull, like using **localStorage**, search notes, etc.   
+3. You can archive, revert, or delete notes using the buttons in the note
+4. While you refresh this page, the added notes are deleted. The notes will appear in this page like opened for first time.   
