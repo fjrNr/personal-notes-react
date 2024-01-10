@@ -1,6 +1,6 @@
 # Personal Notes using React
 ## Description
-This is submitted project to passed the React web application development class from Dicoding Indonesia. This project using front-end website language, such as HTML, CSS, and React to ensure this web page can be open via web browser.
+This is submitted project to passed the React web application development class from Dicoding Indonesia. This project using front-end website language, such as HTML, CSS, and React to create a personal notes web page.
 
 ## How to Install and Run the Project
 1. Make sure **Node.js** is installed in your machine
